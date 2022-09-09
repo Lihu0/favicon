@@ -6,4 +6,4 @@ you cat create favicon in:
 - https://genfavicon.com/
 - https://www.xiconeditor.com/
 
-chexk favicon in https://realfavicongenerator.net/
+check favicon in https://realfavicongenerator.net/
